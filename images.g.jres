@@ -1,0 +1,17 @@
+{
+    "0n{Q;j5HHCok~ZhMB*P+": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAEBEBAAAAAAAQAAAAAAADwBAAAAAAPD/RESEAAAE8P/U1ISISATw/0TUhAAAAPD/RNSEAAAA8P/U1ISISATw/0REhAAABPD/RESEAAAEAA8AQAAAAAAAAABAAAAAAAAAAEBEBAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "fugitivoSprite"
+    },
+    "@^_]w": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAGBmDgAAAAAAYAAAAAAACgBgAAAAAKCqZmbGAAAOoKrm5sbM7A6gqmbmxgAAAKCqZubGAAAAoKrm5sbM7A6gqmZmxgAADqCqZmbGAAAOAAoAYAAAAAAAAABgAAAAAAAAAGBmDgAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "pegador"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
